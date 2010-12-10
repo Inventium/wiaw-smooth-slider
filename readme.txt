@@ -1,4 +1,4 @@
-=== Smooth Slider ===
+=== Website In A Weekend Smooth Slider ===
 Contributors: internet techies
 Tags: slideshow,featured,posts,jquery,slider,content,widget,shortcode,carousel,css,simple,thumbnail,image,post,sidebar,plugin,page,category,wpmu,site,blogs,style,home,categories,picture,flash,gallery
 Donate link: http://www.clickonf5.org/go/smooth-slider/ 
@@ -165,7 +165,7 @@ Version 2.0 (10/08/2009)
 4. New - New custom field implementation, to allow not to display images on selective posts
 5. New - A new template tag to display Category specific posts on Smooth Slider
 6. New - A new template tag for WPMU, to get slider posts from all over the WPMU site
-7. New - Option to change “Read More” text and also put it in your language
+7. New - Option to change ï¿½Read Moreï¿½ text and also put it in your language
 8. New - Permission setting option to restrict the users from adding posts to Smooth Slider
 9. New - Remove posts and pages from Smooth Slider selectively from the settings page itself
 10. New - Option to retain specific html tags in the slider posts
